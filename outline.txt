@@ -1,5 +1,3 @@
-
-
 I. Introduction
     Hook/Lead - anchoring for substitute goods
         What are anchoring effects?
@@ -9,6 +7,7 @@ I. Introduction
         Anchoring cross-effects
         replication
         results
+        (primary contribution: resale is difficult)
 
 II. How do auctions for fine art work?
     (expand more than the Beggs & Graddy paper)
@@ -25,4 +24,8 @@ IV. Methodology
 V. Results
     Anchoring regression
 
-VI. Conclusion
+VI. Observational evidence & interpretation
+
+VII. Conclusion
+
+(do footnotes inline <FOOTNOTE HERE>)

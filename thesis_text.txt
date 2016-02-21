@@ -1,2 +1,19 @@
 ANCHORING CROSS-EFFECTS IN AUCTIONS FOR IMPRESSIONIST AND CONTEMPORARY ART
-By Evan 
+By Evan Chow
+Advised by Dr. Stephen Morris
+
+This represents my own work in accordance with University regulations. -Evan
+
+####################
+
+ABSTRACT
+
+This paper studies the strength and existence of anchoring effects between substitute goods in the context of fine art auctions. We first attempt to replicate past anchoring research for resale of art pieces. Then, we construct a new, more recent dataset and also run new regressions that specifically capture cross-substitute anchoring. We show that ....
+
+####################
+
+INTRODUCTION
+
+Suppose you are heading to Christie's to bid on a Monet oil painting, which has a value around $5 million based on its inherent hedonic (artistic) characteristics. You're unaware of that, and so when you learn that a very similar oil painting by Van Gogh fetched a $10 million just the week before, $8 or $9 million for the Monet seems like a bargain, even if you know Monet paintings should be able to sell for lower.
+
+Anchoring is a well-known cognitive bias where the first numbers someone hears can change their future perceptions. This was demonstrated in a famous clinical experiment by Tversky & Kahneman, where participants were given only 5 seconds to calculate the product of numbers 1 through 8, shown either in increasing or decreasing order. It was found those who saw the lower numbers first gave a median estimate of 512, whereas those who saw higher numbers first gave a median estimate of 2250 - a significant difference due to first impressions. In the art market, anchoring was 
