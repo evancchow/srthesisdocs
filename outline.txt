@@ -1,0 +1,28 @@
+
+
+I. Introduction
+    Hook/Lead - anchoring for substitute goods
+        What are anchoring effects?
+        Twitter data
+        Quotes from auctioneer or bidders?
+    What you're going to study?
+        Anchoring cross-effects
+        replication
+        results
+
+II. How do auctions for fine art work?
+    (expand more than the Beggs & Graddy paper)
+    do theoretical work on anchoring bias here if appropriate
+
+III. Literature Review
+
+IV. Data
+
+IV. Methodology
+    Regression for anchoring (Beggs & Graddy)
+    Expanded regression for anchoring cross-effects (me)
+
+V. Results
+    Anchoring regression
+
+VI. Conclusion
