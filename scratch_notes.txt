@@ -1,1 +1,7 @@
+make sure that you do your sections as separate word docs
+
 account for presale estimates in regression (later after this draft)
+
+note: okay to have insignificant results! Especially given that so many of your results are significant.
+
+maybe ask MB '00, HN '16, RB '16 about results?
