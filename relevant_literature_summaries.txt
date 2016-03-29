@@ -57,3 +57,7 @@ Past literature:
     If anchor is specific ($799,382) people adjust less; if anchor is more general ($800,000) people adjust in higher increments.
 
 Paintings and numbers: an econometric investigation of sales rates, prices, and returns in Latin American art auctions
+
+Herrero, Marta. "Auctions, rituals and emotions in the art market." Thesis Eleven 103.1 (2010): 97-107.
+
+Canals-Cerdá, José J. "The value of a good reputation online: an application to art auctions." Journal of Cultural Economics 36.1 (2012): 67-85.
