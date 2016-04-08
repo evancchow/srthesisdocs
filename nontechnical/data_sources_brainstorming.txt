@@ -1,0 +1,6 @@
+Note, may be good to go with just the search pages (also faster for quick details).
+But again, redirects to search settings page which requires you to enter an artist (and therefore requires Javascript).
+http://artsalesindex.artinfo.com/asi/results.
+action?page=4&sort=3&uom=in&dir=desc&currency=USD
+
+Original currency of sale - could be the same as the sale price, just indicates which currency it was. If a painting has been sold (hasn't been bought in or withdrawn), the sale price converted to USD / EUR / GBP is always listed (which is convenient if you want to compare paintings). For example, if the prices are 490K USD 450K EUR and 318K GBP, and Origina Currency of Sale is 490K USD, then the sale price is 490K and the art piece was originally sold in USD. However, if you see something like "Original Currency of Sale: 681000 CAD" (that's current value of 490K USD in CAD, canadian dollars), then that means the painting was originally sold in 681K Canadian dollars, and Blouin provides the USD/EUR/GBP prices *according to the exchange rate at the time*.

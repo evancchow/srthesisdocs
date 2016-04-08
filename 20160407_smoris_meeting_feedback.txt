@@ -1,0 +1,72 @@
+Document - expert interviews.
+    say who talked with
+    (maybe when discuss datasets)
+    name them in paper?
+
+findings in introduction.
+intro - good to know 2 paragraphs in depth - what you do in your thesis + findings.
+(do have to do extract results)
+what try to do and what succeed in doing
+- reader and second grader: need to know what you consider important.
+
+more discussion on how to get data.
+sentence or 2 regarding: how get Impress / Contemp / data.
+    format of data etc.
+
+highlight fact: data from multiple sources.
+do mention in intro - collected data with technology, got other data from emailing prof, etc.
+
+"to our knowledge, no work has examined so far" [substitutes]. right now you say "nearly" - is there work you haven't acknowledged?
+so search sub literature if you have time to check.
+
+sub measures -> discuss earlier: the collinear problem you were having.
+highlight fact it is ont trivial to find measures that work
+(?? independent of hedonic preds in the regression model ??)
+
+measure #1: make cleaner. say how you filter for substitutes (same artist, medium etc.)
+
+say measure #1 is distinct from average sub, describe how it covers variance.
+sensitivity to group of subs
+sensitivity to log specification
+
+robustness checks - substitution
+
+useful to describe other things you considered.
+
+flagging as attract feature: use very different measures of substitution, get similar findings.
+
+impressionist data: say how it's old, unlabelled units / dimensions, units .,.. how get, contacted
+
+dimension - make sure you know when this refers to "literal" dimension (area of painting)
+
+talk about / clarify: nyc vs. london excchange rate:
+
+intro: do mention black box issue. Mention Beggs & Graddy - that they treat this as black box.
+
+*************************************************
+* email 2 paragraphs intro to dr. morris
+*
+*************************************************
+
+issue: can we interpret this as anchoring?
+discussion of literature: make it very clear which papers interpret as psychological anchoring and which do not.
+
+Hong et al. 2015 - maybe they make psychological interpretation?
+Then say why we chose the black box approach.
+
+Results - when describe findings, very high level description. Could give more
+
+logs -> percent change - talk about this in your methodology
+
+give description of variables. (beg specific)
+formatting: report regreassion results as in beggs & graddy or other theses, e.g. t-statistic under estimate, etc.
+
+may be interesting to look @ other regressino variables that are not the main focus (if time maybe).
+
+if time: discuss very briefly - why I don't theorize. (may not be interesting from theoretic point of view ...)
+
+
+-------------------------------
+
+Note to self: make sure 
+

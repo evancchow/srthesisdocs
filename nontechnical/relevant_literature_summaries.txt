@@ -1,0 +1,59 @@
+Past literature:
+
+"Investing in Art: the Informational Content of Italian Painting Pre-Sale Estimates" (Bruno & Nocera 2008)
+    Question: how helpful are presale estimates?
+    (1) Presale estimates are not good predictors of final sale prices. (2) When Italian paintings are auctioned in Italy, uncertainty/accuracy of presale estimates decreases/increases. "Country effect." (3) Informational content of presale estimates is affected by past prices ("anchoring").
+
+"Failing to meet the reserve price: the impact on returns to art" (Beggs & Graddy 2008)
+    Studies heavily advertised paintings that fail to meet reserve price ("burned"). Shows that heavily advertised paintings that fail return significantly less in the future
+    than non-advertised paintings.
+
+"Anchoring Effects: Evidence from Art Auctions" (Beggs & Graddy 2009)
+    Finds strong support for anchoring effects on the part of buyers. Tests anchoring effects on sale prices, presale estimates, and probability of sale.
+    (anchoring: past price affects current price beyond hedonic prediction)
+
+"Loss Aversion? What Loss Aversion? Some Surprising Evidence from the Art Market" (Mei et al. 2010)
+    Uses Mei-Moses art database.
+    Loss aversion is not an important phenomenon in the art market, do not see expected behavior.
+
+"Does the sun 'shine' on art prices?" (De Silva et al. 2012)
+    Variation in mood, proxied by the weather, weakly affects art prices (esp. the lower end of the price distribution).
+
+"Sentiment and Art Prices" (Penasse, Renneboog, and Spaenjers 2014)
+    Sentiment (e.g. confidence levels for artwork) drives short-term returns.
+
+"Bubbles and trading frenzies: evidence from the art market" (Penasse & Renneboog 2014)
+    In the art market: (1) sales volume is driven primarily by speculative transactions, (2) positive price-volume correlation is pervasive across
+    price movements, (3) volume predicts negative long-run returns
+
+"Anchoring or Loss Aversion? Empirical Evidence from Art Auctions" (Graddy et al. 2014)
+    Anchoring effects are stronger for items that are resold quickly. As people hold paintings longer, they become less scared of losing money (decreased loss aversion).
+
+"Ordering, revenue, and anchoring in art auctions" (Hong et al. 2015)
+    Question: Does the order in which paintings are sold (esp. by value) affect prices?
+    Sotheby's, Christie's alternate who goes first.
+    When house with more expensive paintings goes first, more paintings sell, and that week's sale premium is significantly higher than the mean.
+
+"Uncertainty, Disagreement and Expert Price Estimates in Art Markets" (Vosilov 2015)
+    Expert art estimates positively affect realized art prices. 
+
+"What Drives the Chinese Art Market? The Case of Elegant Bribery" (Guo)
+    Lists some hedonic characteristics that are identified as strong indicators of price (e.g. size, signature, oil paintings).
+        - size of work (to certain extent)
+        - presence of signature / other signs of authenticity
+        - prestige of work's provenance (how, where, why was created)
+        - rarity in terms of medium, style, subject matter
+        - involvement in major exhibitions or publications
+        NOTE: creation date / topic of artwork is not necessarily important, since tastes may vary over time.
+    Significant artist characteristics that positively impact price:
+        - historical significance of artist
+        - participation of artist in major exhibitions
+        - prestige of gallery that represents the artist
+        - popularity of subject material that the artist specializes in at time of creation
+        also important: nationality of artist, artistic style of artist.
+    Significant auction house characteristics: prestige of house; location of sale; time of sale; ordering of lots; etc.
+
+"Precision of the anchor influences the amount of adjustment" (Janiszewski & Uy 2008)
+    If anchor is specific ($799,382) people adjust less; if anchor is more general ($800,000) people adjust in higher increments.
+
+Paintings and numbers: an econometric investigation of sales rates, prices, and returns in Latin American art auctions

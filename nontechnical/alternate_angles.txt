@@ -1,0 +1,36 @@
+Note: your work is more useful than Beggs & Graddy since applicable to substitute
+goods and not just resale (of which there are far fewer examples).
+
+------------------
+
+Maybe focus on accuracy of presale estimates?
+
+seller-side anchoring
+    + estimating reserve prices
+    depends if your data is good enough
+    https://scholar.google.com/scholar?hl=en&q=estimating+art+reserve+prices&btnG=&as_sdt=1%2C31&as_sdtp=
+
+sales of similar artistic items.
+
+anchoring between related items (e.g. similar materials, same artists / artistic period)
+    maybe same medium?
+    masterpiece effect - same lot for art pieces (downside: little supporting evidence for masterpiece effect)
+
+test "folk wisdom" - anecdotal beliefs in the art industry (e.g. "burning", see Beggs & Graddy 2008)
+
+other behaviorial phenomena: loss aversion, overconfidence effect, overreaction ...
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+
+------------------
+
+got the datasets originally used for anchoring effects papers -> plan to run regression very soon
+anchoring effects for my dataset - 
+    my dataset = much more recent (2006 - 2015)
+    much smaller gap between auctions -> better for studying anchoring effects (anchoring effects are much stronger with smaller time period, Graddy et al. 2014) 
+    anchoring between related items (substitute goods) - focus primarily on same medium (e.g. oil on canvas)
+something with cross-elasticity of demand?
+asymmetric anchoring, e.g. more for positive than negative. (see working paper by beggs & graddy, 2005)
+
+
+
