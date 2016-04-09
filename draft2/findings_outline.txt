@@ -1,2 +1,56 @@
 hedonic regression
-    
+    hedonic characteristics do have big, significant impact on sale price of painting
+    date of creation not significant
+    high rsq for impress / contemp, but low rsq for assorted art
+    very significant f stat
+    highly significant intercept for impress
+    presence of signature - very significant
+    sig - more important for nyc. med - more important for london
+    regress on only artist + time -> reduction in rsq
+
+replication: beggs & graddy (2009)
+    able to replicate: significant anchoring effects
+    anchoring coefs not as large overall
+    past residuals more influential than anchoring
+    able to replicate: small time coefs
+    able to replicate: high rsq
+    on your data: 
+        low rsq
+        f stat high
+        very significant and strong anchoring effects
+        past residual not as influential
+        weak time effects
+
+anchoring cross-effects (general)
+    Q1
+        anchoring effects:
+            lose sig for contemp
+                b/c: diversity of contemp art -> no more sig, sig past residual
+            retain sig for impress 
+                (small coef for impress)
+                b/c: impress prices rise over decades, reputation effect
+            high coef, sig for assorted art
+                diversity -> better chance of finding substitutes
+        time effects:
+            strong for contemp art, assorted art
+            weak for impress
+            myopic buyers -> msall coefs
+        effect of Q1 on price:
+            better for impressionist & assorted art
+            worse for contemporary art
+        similar rsq as replication work, high f statistics
+
+    Q2
+        anchoring effects:
+            similar as Q1 - sig for impress and assorted, not sig for contemp
+            smaller coefs overall
+            ### should talk about why get similar effects
+
+        effect of Q2:
+            impress art: less significant
+            becomes sig for contemporary art
+            becomes stronger for Q1
+
+
+
+

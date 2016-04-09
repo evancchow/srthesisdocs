@@ -1,0 +1,5 @@
+- REVISE RESULTS
+    revise Q1 independently of Q2, to make Q1 as good as possible
+        (do note: Q1 is a general measure of hedonic differences)
+    then revise Q2 in light of Q1 - show how complements Q1
+        (particularly because Q2 is a very different measure)
