@@ -6,5 +6,7 @@
 -> print out again for your edits
 -> make changes
 
+(when revising for writing style, don't worry about the formatting, e.g. footnotes and stuff. do that later)
+
 
 after revision: order pequod stuff 
