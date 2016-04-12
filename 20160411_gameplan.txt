@@ -28,4 +28,6 @@ make sure is consistent:
     references to past literature (see jamal's note)
     we vs. i (should do 'we' throughout)
 
-polish results
+- polish results
+- check for references to past literature: are in past tense
+- polish abstract
