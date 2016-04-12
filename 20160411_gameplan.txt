@@ -19,8 +19,8 @@ add page numbers
 
 STILL LEFT TO DO:
 
-clean up figures and tables + references
-(fix tables first, then go back and check the references in the paper to those tables)
+clean up figures and tables + references 
+(fix tables and figures first, then go back and check the references in the paper to those tables) <<<<<<<<<<< MORNING OF TUESDAY: CONTINUE FROM HERE YO 
 
 polish abstract (w/jamal's edits)
 
