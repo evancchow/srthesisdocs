@@ -6,3 +6,11 @@ some footnotes should be like: 1 See X (1082), Y (2014), and Z (3014) for furthe
 -> PUT ALL SECTIONS TOGETHER, WITH FINAL FIGURES + TABLES -> should be good enough estimate for page count. SEND YOUR STUFF TO PEQUOD BY 3 PM so you can get this on Tuesday
 -> then write up formatting nice.
 if have time, go back and clean up results
+
+
+do bibliography / citations (do clean up interview citations too: move names to footnotes.)
+
+clean figures and tables
+then polish references
+
+add page numbers
