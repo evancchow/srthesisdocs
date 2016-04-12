@@ -14,3 +14,18 @@ clean figures and tables
 then polish references
 
 add page numbers
+
+-----------------------------------------------------
+
+STILL LEFT TO DO:
+
+clean up figures and tables + references
+(fix tables first, then go back and check the references in the paper to those tables)
+
+polish abstract (w/jamal's edits)
+
+make sure is consistent:
+    references to past literature (see jamal's note)
+    we vs. i (should do 'we' throughout)
+
+polish results
