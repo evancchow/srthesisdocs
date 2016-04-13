@@ -31,3 +31,5 @@ make sure is consistent:
 - polish results
 - check for references to past literature: are in past tense
 - polish abstract
+
+capitalization of assorted art
