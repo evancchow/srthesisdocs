@@ -33,3 +33,5 @@ make sure is consistent:
 - polish abstract
 
 capitalization of assorted art
+
+finish revising from q2 after assorted
